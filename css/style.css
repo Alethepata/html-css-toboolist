@@ -29,12 +29,10 @@ header{
 .bottoni{
   padding:20px 0 10px 50px;
   border-bottom: 2px solid #f6f8f9;
-  
 }
 .bottone-1,.bottone-2{  
   padding: 10px;
   border-radius: 15%;
-
 }
 .bottone-1{
   background-color: #47adf1;
@@ -46,3 +44,32 @@ header{
   border-color: lightgray;
   color:lightgray;
 }
+.list{
+  padding:20px 0 30px 50px; 
+}
+ol{
+	list-style:none;
+}
+.check,.cross{
+  border-radius: 50%;
+  padding: 2px;
+  font-size: 12px;
+}
+.check{
+  color: green;
+  border:1px solid green;
+
+}
+.cross{  
+  color: red;
+  border:1px solid red;
+
+}
+h3{
+  margin-bottom: 15px;
+  margin-top: 20px;
+}
+li{
+  margin: 20px;
+}
+
