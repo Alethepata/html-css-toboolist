@@ -33,7 +33,7 @@ header{
 }
 .bottone-1,.bottone-2{  
   padding: 10px;
-  border-radius: 15%;
+  border-radius: 7px;
 }
 .bottone-1{
   background-color: #47adf1;
@@ -82,7 +82,7 @@ h3{
 .blue,.violet,.aqua,.orange,.pink,.green{
   color: white;
   padding: 10px;
-  border-radius: 20%;
+  border-radius: 15px;
 }
 .blue{
   background-color: #47adf1;
