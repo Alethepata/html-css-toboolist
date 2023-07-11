@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; 
+}
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f6f8f9;
+}
+/* Header */
+.logo{
+  font-size: 60px;
+  vertical-align: middle;
+}
+img{
+  vertical-align: middle;  
+}
+header{
+  background-color: white;
+}
